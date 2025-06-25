@@ -68,3 +68,5 @@ int main() {
 
     return 0;
 }
+
+// run this code then you can get output
